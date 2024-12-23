@@ -1,0 +1,5 @@
+name: gitpush
+main: com.example.gitpush.Plugin
+version: 0.0.1
+api-version: 1.15
+description: Allows you to use git commands from in-game
