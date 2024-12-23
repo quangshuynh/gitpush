@@ -1,4 +1,4 @@
-package com.example;
+package com.example.gitpush;
 
 import java.util.logging.Logger;
 import org.bukkit.plugin.java.JavaPlugin;
